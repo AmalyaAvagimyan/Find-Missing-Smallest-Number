@@ -1,2 +1,2 @@
-# Find-Missing-SmallestNumber
-C# Console App, finds the missing smallest positive integer
+# Find-Missing-Smallest-Number
+C# Console App, finds the missing smallest positive integer in the array
